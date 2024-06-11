@@ -1,6 +1,6 @@
 package criacao.abstractfactory;
 
-// Produtos Concretos
+// ConcreteProduct: Implementações concretas da AbstractProduct.
 public class BoletoItau implements Boleto {
 
     public String dadosBoleto() {

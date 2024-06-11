@@ -1,6 +1,6 @@
 package criacao.abstractfactory;
 
-// Fábrica Concreta
+// ConcreteFactory: Implementações concretas da AbstractFactory, criando instâncias específicas dos produtos.
 public class MoipFactory implements PagamentosFactory {
 
     public Boleto gerarBoleto() {

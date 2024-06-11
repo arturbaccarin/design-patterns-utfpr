@@ -1,6 +1,6 @@
 package criacao.abstractfactory;
 
-// Como usar
+// Client: Utiliza a AbstractFactory para criar produtos.
 public class Cliente {
 
     PagamentosFactory pagamento = new MoipFactory();

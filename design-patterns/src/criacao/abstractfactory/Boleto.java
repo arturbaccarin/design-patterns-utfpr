@@ -1,6 +1,6 @@
 package criacao.abstractfactory;
 
-// Produto Abstrato
+// AbstractProduct: Interface ou classe abstrata para um tipo de produto.
 public interface Boleto {
     public String dadosBoleto();
 }
