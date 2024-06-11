@@ -1,4 +1,4 @@
-package criacao.abst.factory;
+package criacao.abstractfactory;
 
 // Como usar
 public class Cliente {

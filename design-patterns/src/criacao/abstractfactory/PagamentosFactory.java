@@ -1,4 +1,4 @@
-package criacao.abst.factory;
+package criacao.abstractfactory;
 
 // Fábrica abstrata
 public interface PagamentosFactory {

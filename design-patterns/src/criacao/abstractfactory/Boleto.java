@@ -1,4 +1,4 @@
-package criacao.abst.factory;
+package criacao.abstractfactory;
 
 // Produto Abstrato
 public interface Boleto {

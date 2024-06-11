@@ -1,4 +1,4 @@
-package criacao.abst.factory;
+package criacao.abstractfactory;
 
 // Fábrica Concreta
 public class MoipFactory implements PagamentosFactory {

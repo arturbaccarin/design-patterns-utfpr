@@ -1,4 +1,4 @@
-package criacao.abst.factory;
+package criacao.abstractfactory;
 
 // Produtos Concretos
 public class BoletoBradesco implements Boleto {
