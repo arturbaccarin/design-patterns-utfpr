@@ -1,6 +1,7 @@
 package criacao.factorymethod;
 
-// Creator
+// Creator: Classe que declara o método de fábrica (factory method), que retorna um objeto do tipo Product. 
+// A classe Creator pode também definir um método padrão para criar objetos.
 public abstract class FornecedorCartao {
     public abstract CartaoCredito criarCartao(String bandeira);
 

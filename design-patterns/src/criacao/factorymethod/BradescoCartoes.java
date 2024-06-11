@@ -1,5 +1,6 @@
 package criacao.factorymethod;
 
+// ConcreteCreator: Subclasses que implementam o método de fábrica para retornar instâncias de ConcreteProduct.
 public class BradescoCartoes extends FornecedorCartao {
 
     public CartaoCredito criarCartao(String bandeira) {

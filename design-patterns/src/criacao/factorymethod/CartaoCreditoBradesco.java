@@ -1,5 +1,6 @@
 package criacao.factorymethod;
 
+// ConcreteProduct: Implementações concretas da interface Product.
 public class CartaoCreditoBradesco extends CartaoCredito {
 
     public CartaoCreditoBradesco() {

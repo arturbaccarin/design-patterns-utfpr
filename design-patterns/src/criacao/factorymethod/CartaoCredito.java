@@ -1,6 +1,6 @@
 package criacao.factorymethod;
 
-// Product
+// Product: Interface ou classe abstrata que define a interface dos objetos que a fábrica cria.
 public abstract class CartaoCredito {
 
     protected String nome;
