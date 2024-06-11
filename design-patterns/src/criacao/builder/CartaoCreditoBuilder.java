@@ -1,6 +1,6 @@
 package criacao.builder;
 
-// Builder
+// Builder: Interface que declara métodos para criar as diferentes partes de um objeto complexo.
 public abstract class CartaoCreditoBuilder {
 
     protected CartaoCredito cartao;

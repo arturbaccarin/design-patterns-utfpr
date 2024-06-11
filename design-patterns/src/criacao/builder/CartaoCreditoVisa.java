@@ -1,5 +1,6 @@
 package criacao.builder;
 
+// ConcreteBuilder: Implementação concreta da interface Builder que constrói e monta as partes do produto.
 public class CartaoCreditoVisa extends CartaoCreditoBuilder {
 
     public void liberarLimite() {

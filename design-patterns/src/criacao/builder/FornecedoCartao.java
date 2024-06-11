@@ -1,6 +1,6 @@
 package criacao.builder;
 
-// Director
+// Director: Entidade que dirige o processo de construção, utilizando os métodos do Builder para criar o produto.
 public class FornecedoCartao {
 
     private CartaoCreditoBuilder bandeira;

@@ -1,6 +1,6 @@
 package criacao.builder;
 
-// Produto
+// Product: Objeto complexo que é construído pelas implementações do Builder.
 public class CartaoCredito {
 
     protected String nome;
