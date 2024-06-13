@@ -1,4 +1,4 @@
-package criacao.abstractfactory.exercicio;
+package criacao.abstractfactory.exercicio1;
 
 import java.io.FileWriter;
 import java.io.IOException;

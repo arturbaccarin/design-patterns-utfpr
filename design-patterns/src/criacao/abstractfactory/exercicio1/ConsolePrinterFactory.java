@@ -1,4 +1,4 @@
-package criacao.abstractfactory.exercicio;
+package criacao.abstractfactory.exercicio1;
 
 // ConcreteFactory
 public class ConsolePrinterFactory implements PrinterFactory {
