@@ -1,4 +1,4 @@
-package criacao.factorymethod.exercicio2;
+package criacao.factorymethod.exercicio3;
 
 import java.io.FileWriter;
 import java.io.IOException;
